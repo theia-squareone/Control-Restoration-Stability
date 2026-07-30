@@ -3,6 +3,10 @@
   <i>Theia Ivy Aletheia / 梁曦真</i>
 </p>
 
+<p align="center">
+  <b>Keywords:</b> AI Control, Regime Switching, Stability Restoration, Intelligent Architecture, System Resilience, Dynamic Behavior
+</p>
+
 ---
 
 ## About this paper
